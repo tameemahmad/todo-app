@@ -1,4 +1,4 @@
-# Laravel 8 Todo App
+# Laravel Todo App Task
 
 This is a simple Todo app for test.
 
@@ -9,7 +9,7 @@ Clone the repository-
 
 Then cd into the folder with this command-
 ```
-cd todo
+cd todo-app
 ```
 
 Then do a composer install
